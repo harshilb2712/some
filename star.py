@@ -8,3 +8,5 @@ print('Hi This is Kumud here')
 
 print('testing here')
 some = 34
+print ('Hi')
+print ('Hello')
